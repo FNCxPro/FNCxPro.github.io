@@ -13,3 +13,19 @@ Filename: ./debs/pro.relative.nomorenctime_1.0.0_iphoneos-arm.deb
 Size: 2764
 Depiction: https://fncxpro.github.io/depictions/pro.relative.nomorenctime.html
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
+
+Package: pro.relative.nomorenctime
+Name: NoMoreNCTime
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Get rid of the time and date in the Today view
+Maintainer: Relative
+Author: Relative
+Section: Tweaks
+SHA1: 03596fbc3f0665245f040465b1f6c7f9f01ac3ab
+MD5sum: ea06deafde4f3c63bd821960c774c92c
+Filename: ./debs/pro.relative.nomorenctime_1.0.1_iphoneos-arm.deb
+Size: 5290
+Depiction: https://fncxpro.github.io/depictions/pro.relative.nomorenctime.html
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
