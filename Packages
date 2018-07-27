@@ -61,3 +61,19 @@ Filename: ./debs/pro.relative.huewidget_1.0.1_iphoneos-arm.deb
 MD5sum: 69cda489a3747f42b985d2f9bad71133
 SHA1: 268b5d8648d78491476eb481d6b76956537d775d
 Size: 7076
+
+Package: pro.relative.huewidget
+Name: Hue Widget (Xen HTML)
+Depends: com.matchstic.xenhtml
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Hue Widget (Xen HTML)
+Maintainer: Relative
+Author: Relative
+Section: Tweaks
+Tag: purpose::theme, compatible_min::ios9.0, compatible_max::ios11.4
+Depiction: https://fncxpro.github.io/depictions/pro.relative.huewidget.html
+Filename: ./debs/pro.relative.huewidget_1.0.2_iphoneos-arm.deb
+MD5sum: 85b3c8221814004b2df9a8900c10668d
+SHA1: e32631cd6e419ea6471ca72516f02677044f5636
+Size: 7072
