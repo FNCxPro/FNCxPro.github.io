@@ -40,6 +40,7 @@ Maintainer: Relative
 Author: Relative
 Section: Widgets (Xen HTML)
 Tag: purpose::theme, compatible_min::ios11.0, compatible_max::ios11.4
+Depiction: https://fncxpro.github.io/depictions/pro.relative.huewidget.html
 Filename: ./debs/pro.relative.huewidget_1.0.0_iphoneos-arm.deb
 MD5sum: b4c547f4baff9a1f388015686c58a293
 SHA1: 553a8f9fdfb7e4500699d644f9123b5de19945b0
@@ -55,6 +56,7 @@ Maintainer: Relative
 Author: Relative
 Section: Widgets (Xen HTML)
 Tag: purpose::theme, compatible_min::ios9.0, compatible_max::ios11.4
+Depiction: https://fncxpro.github.io/depictions/pro.relative.huewidget.html
 Filename: ./debs/pro.relative.huewidget_1.0.1_iphoneos-arm.deb
 MD5sum: 69cda489a3747f42b985d2f9bad71133
 SHA1: 268b5d8648d78491476eb481d6b76956537d775d
