@@ -41,9 +41,9 @@ Author: Relative
 Section: Tweaks
 Depiction: https://fncxpro.github.io/depictions/pro.relative.nomorenctime.html
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
+Filename: ./debs/pro.relative.nomorenctime_1.0.2_iphoneos-arm.deb
 SHA1: 695bc89c6880bf52deaeba539a52202fc2473835
 MD5sum: 85a13fcd6f3c572a33762d5a986e9471
-Filename: ./debs/pro.relative.nomorenctime_1.0.2_iphoneos-arm.deb
 
 Package: pro.relative.huewidget
 Name: Hue Widget (Xen HTML)
