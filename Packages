@@ -109,3 +109,20 @@ MD5sum: 4aca4d90d27481650405c17279be7fde
 SHA1: 717648edf35e0774142feccf44bb3e6a390d50e2
 SHA256: 50ed9c56b0ff03e32226caadc11ff910e1e2177a3dbacae9569aec96a458d6c9
 Size: 2202
+
+Package: pro.relative.newgridswitcher
+Name: NewGridSwitcher
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: A grid switcher on iOS 11 and above
+Maintainer: Relative <relative@outlook.ie>
+Author: Relative <relative@outlook.ie>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
+Depiction: https://fncxpro.github.io/depictions/pro.relative.newgridswitcher.html
+Filename: ./debs/pro.relative.newgridswitcher_1.0.1_iphoneos-arm.deb
+MD5sum: 98fae59e46639ac984a24a60e92cc2eb
+SHA1: d4960a270e2586a6ea79bb8c957ae4bfd659f706
+SHA256: a3c9b329f61bf26dc62866ff8104c020620ca04c829b3c6945a1c7660e4089ce
+Size: 2202
