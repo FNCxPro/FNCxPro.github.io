@@ -92,3 +92,20 @@ Filename: ./debs/pro.relative.huewidget_1.0.2_iphoneos-arm.deb
 MD5sum: 85b3c8221814004b2df9a8900c10668d
 SHA1: e32631cd6e419ea6471ca72516f02677044f5636
 Size: 7072
+
+Package: pro.relative.newgridswitcher
+Name: NewGridSwitcher
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A grid switcher on iOS 11 and above
+Maintainer: Relative <relative@outlook.ie>
+Author: Relative <relative@outlook.ie>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
+Depiction: https://fncxpro.github.io/depictions/pro.relative.newgridswitcher.html
+Filename: ./debs/pro.relative.newgridswitcher_1.0.0_iphoneos-arm.deb
+MD5sum: 4aca4d90d27481650405c17279be7fde
+SHA1: 717648edf35e0774142feccf44bb3e6a390d50e2
+SHA256: 50ed9c56b0ff03e32226caadc11ff910e1e2177a3dbacae9569aec96a458d6c9
+Size: 2202
