@@ -122,4 +122,7 @@ Section: Tweaks
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
 Depiction: https://fncxpro.github.io/depictions/pro.relative.newgridswitcher.html
 Filename: ./debs/pro.relative.newgridswitcher_1.0.1_iphoneos-arm.deb
-Size: 2202
+MD5sum: 98fae59e46639ac984a24a60e92cc2eb
+SHA1: d4960a270e2586a6ea79bb8c957ae4bfd659f706
+SHA256: a3c9b329f61bf26dc62866ff8104c020620ca04c829b3c6945a1c7660e4089ce
+Size: 2196
