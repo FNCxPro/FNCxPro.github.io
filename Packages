@@ -11,6 +11,7 @@ SHA1: dac43688ec090a87e3f0d0fca2c05feb9538037f
 MD5sum: db76160f00c14a924fc142bf470b956d
 Filename: ./debs/pro.relative.nomorenctime_1.0.0_iphoneos-arm.deb
 Size: 2764
+Installed-Size: 120
 Depiction: https://fncxpro.github.io/depictions/pro.relative.nomorenctime.html
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
 
@@ -28,6 +29,7 @@ SHA1: 03596fbc3f0665245f040465b1f6c7f9f01ac3ab
 MD5sum: ea06deafde4f3c63bd821960c774c92c
 Filename: ./debs/pro.relative.nomorenctime_1.0.1_iphoneos-arm.deb
 Size: 5290
+Installed-Size: 168
 Depiction: https://fncxpro.github.io/depictions/pro.relative.nomorenctime.html
 
 Package: pro.relative.nomorenctime
@@ -41,6 +43,7 @@ Author: Relative
 Section: Tweaks
 Depiction: https://fncxpro.github.io/depictions/pro.relative.nomorenctime.html
 Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.4
+Installed-Size: 168
 Filename: ./debs/pro.relative.nomorenctime_1.0.2_iphoneos-arm.deb
 SHA1: 695bc89c6880bf52deaeba539a52202fc2473835
 MD5sum: 85a13fcd6f3c572a33762d5a986e9471
@@ -109,6 +112,7 @@ MD5sum: 4aca4d90d27481650405c17279be7fde
 SHA1: 717648edf35e0774142feccf44bb3e6a390d50e2
 SHA256: 50ed9c56b0ff03e32226caadc11ff910e1e2177a3dbacae9569aec96a458d6c9
 Size: 2202
+Installed-Size: 72
 
 Package: pro.relative.newgridswitcher
 Name: NewGridSwitcher
@@ -126,3 +130,5 @@ MD5sum: 98fae59e46639ac984a24a60e92cc2eb
 SHA1: d4960a270e2586a6ea79bb8c957ae4bfd659f706
 SHA256: a3c9b329f61bf26dc62866ff8104c020620ca04c829b3c6945a1c7660e4089ce
 Size: 2196
+Installed-Size: 72
+ 
